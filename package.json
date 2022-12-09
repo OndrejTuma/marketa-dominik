@@ -21,7 +21,7 @@
     "draft-js": "^0.10.5",
     "draftjs-to-html": "^0.8.4",
     "dropzone": "^5.5.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "formidable": "^1.2.1",
     "google-map-react": "^1.1.2",
     "js-cookie": "^2.2.0",
